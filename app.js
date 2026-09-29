@@ -1,6 +1,7 @@
 const productsContainer = document.getElementById("productsContainer");
 const addBtn = document.getElementById ("c-btn");
 
+// End-points
 const GET_URL = "https://dummyjson.com/products";
 const API_URL = "http://localhost:3000/products"; // json-server
 
@@ -126,3 +127,4 @@ async function updateProduct(productId) {
 
 getProducts();
 addBtn.addEventListener ("click", createProduct);
+

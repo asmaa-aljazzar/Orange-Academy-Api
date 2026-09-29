@@ -4,61 +4,7 @@
       "title": "Updated Product",
       "price": 50,
       "category": "clothing",
-      "id": "v2aT-Spi-0I"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "uc5GgaU8X18"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "jjvQ7p-hMCg"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "PmM3EEr-dFU"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "cXBcE1g6FGA"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "8DF8oP2Ulyw"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "oe8pSmczOXE"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "5M5-q3gl_sc"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "NwZo4krR5CA"
-    },
-    {
-      "title": "Updated Product",
-      "price": 50,
-      "category": "clothing",
-      "id": "JwyXLBnSpqQ"
+      "id": "d5EODc_11RU"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
